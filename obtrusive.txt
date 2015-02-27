@@ -574,6 +574,7 @@ tmgonlinemedia.nl/consent/script/consent.js$script
 ###cookiescript_injected
 !-- CookieCuttr
 ###cc-cookies.cc-cookies
+##.cc-cookies 
 !-- Others
 ###cartelcookielegal
 ###cookie-law-compliance
